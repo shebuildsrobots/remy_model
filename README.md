@@ -15,6 +15,11 @@ His arms are connected with jewelry header pin that I curled on both sides with 
 
 The whole print is hot glued onto the headband, and the servos are hot glued into the cavity in Remy's back.
 
+![image1](https://github.com/user-attachments/assets/e9e93205-a979-41ee-9a77-7b0bb360eb56)
+
+I highly recommend making Remy's hands bigger. They only held a few strands of hair, and I needed to use a floss threader to thread my hair.
+
+
 
 
 
