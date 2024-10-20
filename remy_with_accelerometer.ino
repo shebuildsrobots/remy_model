@@ -68,11 +68,11 @@ void loop() {
   Serial.println(x_axis_acceleration);
   if (x_axis_acceleration > 1.5) {
     // 160 is observed max servo angle
-    leftServo.write(160);
+    leftServo.write(40);
   }
   if (x_axis_acceleration < 0.4) {
     // 40 is observed min servo angle
-    leftServo.write(40);
+    leftServo.write(160);
   }
   
   delay(400);
