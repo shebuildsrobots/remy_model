@@ -25,7 +25,7 @@ void setup() {
   //  Use I2C
   Serial.begin(19200);
   Wire.begin();                      
-  Wire.beginTransmission(0c68);       
+  Wire.beginTransmission(0x68);       
   Wire.write(0x6B);                  
   Wire.write(0x00);                  
   Wire.endTransmission(true);     
