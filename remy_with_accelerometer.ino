@@ -1,6 +1,6 @@
-// This version of the code reads data from an MPU6050 accelerometer and maps it only to Remy's right arm.
+// This version of the code reads data from an MPU6050 accelerometer.
 // Note that the accelerometer uses I2C protocol with the Wire.h library.
-// The left MPU6050 should have it's AD0 pin held high (+5v), and the right should have it's AD0 pin held low (0).
+// The left MPU6050 should have its AD0 pin held high (+5v), and the right should have its AD0 pin held low (0).
 
 #include <Servo.h>
 #include <Wire.h>
