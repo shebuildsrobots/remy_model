@@ -18,7 +18,7 @@ void setup() {
   rightServo.attach(7);
   rightServo.write(100);
 
-// Play around to find the appropriate angle range for your servo.
+  // Play around to find the appropriate angle range for your servo.
   // You can reattach the arm in a new position if necessary.
   // I found that a range from 90-180 made sense for the left arm,
   // and a range of 100-160 for the right arm.
