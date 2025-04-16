@@ -4,6 +4,8 @@ Please note that the body is designed to hold two **sub** micro servos ([product
 
 These files are provided for **personal use only**.
 
+Contributors have provided some modifications to the original `body.stl` file. Thanks @ryanbbernstein for providing the two-part `body_split.stl` which requires gluing but uses fewer supports.
+
 ### Construction details 
 
 
